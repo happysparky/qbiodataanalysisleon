@@ -1,3 +1,5 @@
+Authors: Anthony Xu, Jared Khan, Julie Li, Jonathan Le, Leon Zha.
+
 This project aims to characterize differences in molecular 
 signatures of breast cancer between young and old patients.
 
